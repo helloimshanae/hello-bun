@@ -12,3 +12,4 @@
 - I practiced the ACP cycle.
 - pwd fans and ls fans may debate.
 - Current three favorite commands: git status, git log --oneline & git push
+- Git Lesson that clicked the most this week: Day 3 Lesson 11 - Two More Shots because repeating the issue, add, commit and push process on my own helped me understand the workflow instead of just following instructions.
